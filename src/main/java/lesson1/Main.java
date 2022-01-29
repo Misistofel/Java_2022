@@ -9,7 +9,12 @@ public class Main {
 //    c.searchEqual(2,3);
 //    c.mod(5, 15);
 
-    ForClass.showTime();
+//    ForClass.showTime();
+    ForeachClass fe = new ForeachClass();
+    int [] array = new int []{1,1,1,1,1};
+//    fe.gradesOfPupil(array);
+    fe.maxGrade(array);
+    fe.avgGrade(array);
 
 
   }
