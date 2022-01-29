@@ -10,11 +10,34 @@ public class Main {
 //    c.mod(5, 15);
 
 //    ForClass.showTime();
-    ForeachClass fe = new ForeachClass();
-    int [] array = new int []{1,1,1,1,1};
-//    fe.gradesOfPupil(array);
-    fe.maxGrade(array);
-    fe.avgGrade(array);
+//    ForeachClass fe = new ForeachClass();
+//    int [] array = new int []{1,1,1,1,1};
+////    fe.gradesOfPupil(array);
+//    fe.maxGrade(array);
+//    fe.avgGrade(array);
+//
+//    ForClass fc = new ForClass();
+//    fc.showTriangle();
+//    fc.notShow87();
+    Return r = new Return();
+//    r.notShow87Return();
+//    System.out.println();
+//    System.out.println("-------------------------------------------------");
+//    r.notShow87Break();
+//    r.returnInLoop();
+//    System.out.println("-------------------------------------------------");
+//    r.returnInLoop1();
+    r.returnShow();
+    System.out.println("It Was Return");
+    r.breakShow();
+    System.out.println("It Was Break");
+
+
+
+
+
+
+
 
 
   }

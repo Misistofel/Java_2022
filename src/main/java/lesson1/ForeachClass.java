@@ -31,6 +31,13 @@ public class ForeachClass {
       System.out.println("Середня оцінка : " + avg + " балів!");
     }
 
+
+  public void foreachInfiniteLoop(int [] arr) {
+    for (int grade : arr) {
+      grade++;
+      System.out.println("Учень має такі бали :" + grade);
+    }
   }
+}
 
 
