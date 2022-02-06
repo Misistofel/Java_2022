@@ -1,5 +1,7 @@
 package lesson1;
 
+import lesson1.Final_.Human;
+
 public class Main {
   public static void main(String[] args) {
 
@@ -31,13 +33,6 @@ public class Main {
     System.out.println("It Was Return");
     r.breakShow();
     System.out.println("It Was Break");
-
-
-
-
-
-
-
 
 
   }

@@ -20,9 +20,9 @@ public class Numerical_variables {
     System.out.println(i==ii);
 
     i = ii;
-    System.out.println(i);
-    System.out.println(i==ii);
-
+    //    System.out.println(i);
+    //    System.out.println(i==ii);
+    short w = 32767;
 
     long result = ++g - b + ++c - --a - d++;
     System.out.println(result);
