@@ -12,6 +12,7 @@ public class Class2 {
         } catch (NullPointerException | ArithmeticException e) {
             //тобто тут буде виводитися АБО NullPointerException АБО ArithmeticException - разом не виведуться, для цього треба подвійний catch
            e.printStackTrace();
+           e.getCause();
         }
 
     }

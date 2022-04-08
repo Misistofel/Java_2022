@@ -10,6 +10,8 @@ public class Part1 {
             System.out.println(arr[10]);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Attention!! ArrayIndexOutOfBoundsException was cought!!!");
+
+            //Можна без finally
         }finally {
             System.out.println("Have a good day!");
         }

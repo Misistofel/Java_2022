@@ -15,8 +15,10 @@ public class Main {
 
 
         Marina m = new Marina("Marina");
-        m.marinaIsFed();
+       // m.marinaIsFed();
         m.marinaIsWashed();
         m.marinaCommunicateWithRelatives();
+
+
     }
 }
