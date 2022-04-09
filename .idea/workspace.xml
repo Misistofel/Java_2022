@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="Added package Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainNewFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainWritingToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainReadingfFromFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +56,7 @@
       <recent name="compositionAggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.Main" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IO_NIO_Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainNewFileWriter">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.SOLID.OpenClosedPrincople.Main" />
       <module name="main" />
@@ -81,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainWrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.SOLID.OpenClosedPrincople.MainWrong" />
+    <configuration name="MainFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainFileWriter" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.SOLID.OpenClosedPrincople.*" />
+          <option name="PATTERN" value="IO_NIO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.ThtowViaThrows.TestClass1" />
+    <configuration name="MainNewFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainNewFileWriter" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.ThtowViaThrows.*" />
+          <option name="PATTERN" value="IO_NIO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.ThtowViaThrows.TestClass2" />
+    <configuration name="MainReadingfFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainReadingfFromFile" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.ThtowViaThrows.*" />
+          <option name="PATTERN" value="IO_NIO_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWritingToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainWritingToFile" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO_NIO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MainNewFileWriter" />
+        <item itemvalue="Application.MainReadingfFromFile" />
+        <item itemvalue="Application.MainFileWriter" />
+        <item itemvalue="Application.MainWritingToFile" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainWrong" />
-        <item itemvalue="Application.TestClass2" />
-        <item itemvalue="Application.TestClass1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649513679567</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added package Exceptions">
+      <created>1649517182388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649517182388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

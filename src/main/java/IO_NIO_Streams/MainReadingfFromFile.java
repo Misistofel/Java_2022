@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class MainReadingfFromFile {
 
     public static void main(String[] args) {
 
@@ -24,6 +24,17 @@ public class Main {
             //а нем треба все що написано в файлі. Коли метод вертає -1 це значить що ми дочитали наш файл
         } catch (IOException e) {
             e.printStackTrace();
+        } finally{
+            try {
+                fis.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            try {
+                isr.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
