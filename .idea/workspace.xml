@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="Added package Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ThtowViaThrows/TestClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ThtowViaThrows/TestClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/customException/MarinaCheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Part1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/TryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tryWithResources/TryWithResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/TryWithResourcesRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tryWithResources/TryWithResourcesRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/customException/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/customException/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/customException/Marina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/customException/Marina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/multyCatch/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/multyCatch/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/LiskovSubstitution/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/LiskovSubstitution/Regtangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarShopWrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarWrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/GetPriceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/MainWrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/ConnectionManagerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/DataManagerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/IConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/IDataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/PhonaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestClass2">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.customException.Main" />
       <module name="main" />
@@ -68,11 +78,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.runTimeException.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson2.SOLID.OpenClosedPrincople.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.runTimeException.*" />
+          <option name="PATTERN" value="Lesson2.SOLID.OpenClosedPrincople.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.SOLID.OpenClosedPrincople.MainWrong" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.SOLID.OpenClosedPrincople.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourcesRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tryWithResources.TryWithResourcesRight" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tryWithResources.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainWrong" />
         <item itemvalue="Application.TestClass2" />
         <item itemvalue="Application.TestClass1" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TryWithResourcesRight" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649007755694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added package Exceptions">
+      <created>1649421381297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649421381297</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added package Exceptions">
+      <created>1649421422960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649421422960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
