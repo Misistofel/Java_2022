@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="Added package Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/Halter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/HorseComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/myExampleas/Marina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/myExampleas/MarinaComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/compositionAggregation/myExampleas/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/LiskovSubstitution/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/LiskovSubstitution/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/LiskovSubstitution/Regtangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/LiskovSubstitution/Regtangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/BMW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/BMW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/CarShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarShopWrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/CarShopWrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/CarWrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/CarWrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/GetPriceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/GetPriceInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/MainWrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/MainWrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/OpenClosedPrincople/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/OpenClosedPrincople/Tesla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/ConnectionManagerImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/ConnectionManagerImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/DataManagerImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/DataManagerImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/IConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/IConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/IDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/IDataManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/PhonaClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/PhonaClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/SOLID/srp/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3/SOLID/srp/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tryWithResources/TryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/tryWithResources/TryWithResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tryWithResources/TryWithResourcesRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/tryWithResources/TryWithResourcesRight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,17 +47,20 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/Exceptions" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="compositionAggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.customException.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.customException.*" />
+          <option name="PATTERN" value="IO_NIO_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainWrong" />
         <item itemvalue="Application.TestClass2" />
         <item itemvalue="Application.TestClass1" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649505647865</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added package Exceptions">
+      <created>1649513679567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649513679567</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
