@@ -1,6 +1,4 @@
-package Lesson2.SOLID.OpenClosedPrincople;
-
-import java.util.Scanner;
+package Lesson3.SOLID.OpenClosedPrincople;
 
 public class CarShopWrong {
     String[] cars = new String[]{"Audi", "BMW"};

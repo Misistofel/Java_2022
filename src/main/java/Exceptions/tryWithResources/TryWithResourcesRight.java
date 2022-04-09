@@ -1,4 +1,4 @@
-package tryWithResources;
+package Exceptions.tryWithResources;
 
 import java.io.*;
 

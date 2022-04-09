@@ -1,4 +1,4 @@
-package Lesson2.SOLID.LiskovSubstitution;
+package Lesson3.SOLID.LiskovSubstitution;
 //краще для обох класів використовувати спільний інтерфейс а не наслідувати один клас від одного!
 public class Regtangle implements Figura{
     int hidth;

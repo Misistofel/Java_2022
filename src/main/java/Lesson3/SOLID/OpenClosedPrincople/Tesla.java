@@ -1,4 +1,4 @@
-package Lesson2.SOLID.OpenClosedPrincople;
+package Lesson3.SOLID.OpenClosedPrincople;
 
 public class Tesla extends Car {
     String carName = "Tesla";

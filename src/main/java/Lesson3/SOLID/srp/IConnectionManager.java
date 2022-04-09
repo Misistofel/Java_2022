@@ -1,4 +1,4 @@
-package Lesson2.SOLID.srp;
+package Lesson3.SOLID.srp;
 
 public interface IConnectionManager {
     void dial(String phoneNumber);

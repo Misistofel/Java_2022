@@ -1,4 +1,4 @@
-package Lesson2.SOLID.LiskovSubstitution;
+package Lesson3.SOLID.LiskovSubstitution;
 
 public interface Figura {
 //    int hidth;

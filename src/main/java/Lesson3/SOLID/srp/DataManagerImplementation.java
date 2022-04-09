@@ -1,4 +1,4 @@
-package Lesson2.SOLID.srp;
+package Lesson3.SOLID.srp;
 
 public class DataManagerImplementation implements IDataManager {
 

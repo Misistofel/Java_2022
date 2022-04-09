@@ -1,9 +1,4 @@
-package Lesson2.SOLID.srp;
-
-import Lesson2.SOLID.srp.ConnectionManagerImplementation;
-import Lesson2.SOLID.srp.DataManagerImplementation;
-import Lesson2.SOLID.srp.IConnectionManager;
-import Lesson2.SOLID.srp.IDataManager;
+package Lesson3.SOLID.srp;
 
 public class Phone implements IDataManager, IConnectionManager {
 
