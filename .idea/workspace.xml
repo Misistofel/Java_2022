@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="Added package Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainNewFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainWritingToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/propertyClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/propertyClass/Props.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IO_NIO_Streams/MainReadingfFromFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +54,13 @@
       <recent name="compositionAggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainNewFileWriter">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.SOLID.OpenClosedPrincople.Main" />
+  <component name="RunManager" selected="Application.Props">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertyClass.Main" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.SOLID.OpenClosedPrincople.*" />
+          <option name="PATTERN" value="propertyClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainWritingToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainWritingToFile" />
+    <configuration name="Props" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertyClass.Props" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IO_NIO_Streams.*" />
+          <option name="PATTERN" value="propertyClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Props" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MainNewFileWriter" />
         <item itemvalue="Application.MainReadingfFromFile" />
         <item itemvalue="Application.MainFileWriter" />
-        <item itemvalue="Application.MainWritingToFile" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649517182388</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added package Exceptions">
+      <created>1649518995849</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649518995849</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
