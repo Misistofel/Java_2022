@@ -5,18 +5,18 @@ import java.io.IOException;
 import java.util.Properties;
 
     public class Props {
-        //путь к нашему файлу конфигураций
-        public static final String PATH_TO_PROPERTIES = "src/file.properties";
+        //пшлях до нашого файлу конфигураций
+        public static final String PATH_TO_PROPERTIES = "src/main/file.properties";
 
         public static void main(String[] args) {
 
             FileInputStream fileInputStream;
-            //инициализируем специальный объект Properties
-            //типа Hashtable для удобной работы с данными
+            //ініціалізуємо специальний об'ект Properties
+            //типу Hashtable для зручної роботи з даними
             Properties prop = new Properties();
 
             try {
-                //обращаемся к файлу и получаем данные
+                //звертаємося до файлу та отримуємо дані
                 fileInputStream = new FileInputStream(PATH_TO_PROPERTIES);
                 prop.load(fileInputStream);
 
@@ -24,7 +24,7 @@ import java.util.Properties;
                 String loginToSite = prop.getProperty("login");
                 String passwordToSite = prop.getProperty("password");
 
-                //печатаем полученные данные в консоль
+                //друкуємо дані на консоль
                 System.out.println(
                         "site: " + site
                                 + "\nloginToSite: " + loginToSite
@@ -32,7 +32,7 @@ import java.util.Properties;
                 );
 
             } catch (IOException e) {
-                System.out.println("Ошибка в программе: файл " + PATH_TO_PROPERTIES + " не обнаружено");
+                System.out.println("Помилка в програмі: файл " + PATH_TO_PROPERTIES + " не знайдено");
                 e.printStackTrace();
             }
 
