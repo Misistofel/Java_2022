@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="Added package Exceptions">
+    <list default="true" id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/propertyClass/CreateProperty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/propertyClass/Props.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/propertyClass/Props.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,7 +28,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="26ypApnDOEPKLVbdGBSNcPfwk9K" />
+  <component name="ProjectId" id="27slzRruZBc0sbsjUBaS62pyXJn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,77 +36,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Exceptions" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/Exceptions" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="compositionAggregation" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Props">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="propertyClass.Main" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="propertyClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainFileWriter" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IO_NIO_Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainNewFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainNewFileWriter" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IO_NIO_Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainReadingfFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO_NIO_Streams.MainReadingfFromFile" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IO_NIO_Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Props" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="propertyClass.Props" />
+  <component name="RunManager">
+    <configuration name="CreateProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertyClass.CreateProperty" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -121,94 +53,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Props" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.MainNewFileWriter" />
-        <item itemvalue="Application.MainReadingfFromFile" />
-        <item itemvalue="Application.MainFileWriter" />
+        <item itemvalue="Application.CreateProperty" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8540101-93d5-4015-a7ce-5804c7f4d12d" name="Changes" comment="" />
-      <created>1648405539211</created>
+      <changelist id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="" />
+      <created>1650116938987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648405539211</updated>
+      <updated>1650116938987</updated>
     </task>
-    <task id="LOCAL-00001" summary="Added package Exceptions">
-      <created>1648406440489</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648406440489</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added package Exceptions">
-      <created>1648583712370</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1648583712370</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added package Exceptions">
-      <created>1649007755694</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1649007755694</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added package Exceptions">
-      <created>1649421381297</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1649421381297</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added package Exceptions">
-      <created>1649421422960</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1649421422960</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added package Exceptions">
-      <created>1649505647865</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1649505647865</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Added package Exceptions">
-      <created>1649513679567</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1649513679567</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added package Exceptions">
-      <created>1649517182388</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1649517182388</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Added package Exceptions">
-      <created>1649518995849</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1649518995849</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added package Exceptions">
-      <created>1649619028003</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1649619028003</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,10 +78,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added package Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added package Exceptions" />
   </component>
 </project>
