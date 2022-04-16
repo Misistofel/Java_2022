@@ -6,7 +6,7 @@ import java.nio.file.Path;
 public class Main {
     public static void main(String[] args) {
 
-        WorkWithCreationDeletionFilesViaPath w = new WorkWithCreationDeletionFilesViaPath("src/main/TXp.properties");
+        WorkWithCreationDeletionFilesViaPath w = new WorkWithCreationDeletionFilesViaPath("src/main/TMP.properties");
         Path dir = w.createDirectory();
        // Path newDir = w.renameDirectory(dir,"NEW.properties");
         Path file = w.createFile("hhh.txt", dir);
