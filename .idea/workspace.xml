@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="Created WorkWithCreationDeletionFilesViaPath class">
-      <change afterPath="$PROJECT_DIR$/src/main/file.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/PathOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/WorkWithCreationDeletionFilesViaPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/propertyClass/CreateAndChangeProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/propertyClass/PropertiesReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/propertyClass/PropertiesReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="Made changes made" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +140,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650120179223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made changes">
+      <created>1650142281151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650142281151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made changes">
+      <created>1650142329065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650142329065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made changes made">
+      <created>1650142347538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650142347538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +180,8 @@
     <MESSAGE value="Created propertiesReader class" />
     <MESSAGE value="Edited propertiesReader class" />
     <MESSAGE value="Created WorkWithCreationDeletionFilesViaPath class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created WorkWithCreationDeletionFilesViaPath class" />
+    <MESSAGE value="Made changes" />
+    <MESSAGE value="Made changes made" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made changes made" />
   </component>
 </project>
