@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="Created propertiesReader class">
+    <list default="true" id="3b974cdb-e580-4ef5-98c4-7d0160731e47" name="Changes" comment="Created WorkWithCreationDeletionFilesViaPath class">
+      <change afterPath="$PROJECT_DIR$/src/main/file.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/PathOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pathAndPaths/WorkWithCreationDeletionFilesViaPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/propertyClass/CreateAndChangeProperties.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/propertyClass/PropertiesReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/propertyClass/PropertiesReader.java" afterDir="false" />
     </list>
@@ -37,7 +42,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CreateAndChangeProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertyClass.CreateAndChangeProperties" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="propertyClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pathAndPaths.Main" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pathAndPaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pathAndPaths.PathOne" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pathAndPaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PropertiesReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="propertyClass.PropertiesReader" />
       <module name="main" />
@@ -51,8 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Props" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propertyClass.Props" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="propertyClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PathOne" />
+        <item itemvalue="Application.CreateAndChangeProperties" />
+        <item itemvalue="Application.Props" />
         <item itemvalue="Application.PropertiesReader" />
       </list>
     </recent_temporary>
@@ -80,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650119459129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Edited propertiesReader class">
+      <created>1650120179223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650120179223</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +165,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created propertyClass" />
     <MESSAGE value="Created propertiesReader class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created propertiesReader class" />
+    <MESSAGE value="Edited propertiesReader class" />
+    <MESSAGE value="Created WorkWithCreationDeletionFilesViaPath class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created WorkWithCreationDeletionFilesViaPath class" />
   </component>
 </project>
